@@ -1,0 +1,2608 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "EmojiKey",
+      "printedName": "EmojiKey",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "cars",
+          "printedName": "cars",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Memorize.EmojiKey.Type) -> Memorize.EmojiKey",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Memorize.EmojiKey.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:8Memorize8EmojiKeyO4carsyA2CmF",
+          "mangledName": "$s8Memorize8EmojiKeyO4carsyA2CmF",
+          "moduleName": "Memorize",
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "flags",
+          "printedName": "flags",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Memorize.EmojiKey.Type) -> Memorize.EmojiKey",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Memorize.EmojiKey.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:8Memorize8EmojiKeyO5flagsyA2CmF",
+          "mangledName": "$s8Memorize8EmojiKeyO5flagsyA2CmF",
+          "moduleName": "Memorize",
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Var",
+          "name": "eats",
+          "printedName": "eats",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Memorize.EmojiKey.Type) -> Memorize.EmojiKey",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Memorize.EmojiKey.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:8Memorize8EmojiKeyO4eatsyA2CmF",
+          "mangledName": "$s8Memorize8EmojiKeyO4eatsyA2CmF",
+          "moduleName": "Memorize",
+          "fixedbinaryorder": 2
+        },
+        {
+          "kind": "Var",
+          "name": "image",
+          "printedName": "image",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8EmojiKeyO5imageSSvp",
+          "mangledName": "$s8Memorize8EmojiKeyO5imageSSvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8EmojiKeyO5imageSSvg",
+              "mangledName": "$s8Memorize8EmojiKeyO5imageSSvg",
+              "moduleName": "Memorize",
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(rawValue:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Memorize.EmojiKey?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize8EmojiKeyO8rawValueACSgSS_tcfc",
+          "mangledName": "$s8Memorize8EmojiKeyO8rawValueACSgSS_tcfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "rawValue",
+          "printedName": "rawValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8EmojiKeyO8rawValueSSvp",
+          "mangledName": "$s8Memorize8EmojiKeyO8rawValueSSvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8EmojiKeyO8rawValueSSvg",
+              "mangledName": "$s8Memorize8EmojiKeyO8rawValueSSvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:8Memorize8EmojiKeyO",
+      "mangledName": "$s8Memorize8EmojiKeyO",
+      "moduleName": "Memorize",
+      "enumRawTypeName": "String",
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RawRepresentable",
+          "printedName": "RawRepresentable",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "RawValue",
+              "printedName": "RawValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "usr": "s:SY",
+          "mangledName": "$sSY"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ContentView",
+      "printedName": "ContentView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "emojis",
+          "printedName": "emojis",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvp",
+          "mangledName": "$s8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[Swift.String]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvg",
+              "mangledName": "$s8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[Swift.String]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvs",
+              "mangledName": "$s8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvM",
+              "mangledName": "$s8Memorize11ContentViewV6emojisSDyAA8EmojiKeyOSaySSGGvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$emojis",
+          "printedName": "$emojis",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<[Memorize.EmojiKey : [Swift.String]]>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[Swift.String]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV7$emojis7SwiftUI7BindingVySDyAA8EmojiKeyOSaySSGGGvp",
+          "mangledName": "$s8Memorize11ContentViewV7$emojis7SwiftUI7BindingVySDyAA8EmojiKeyOSaySSGGGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<[Memorize.EmojiKey : [Swift.String]]>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "EmojiKey",
+                          "printedName": "Memorize.EmojiKey",
+                          "usr": "s:8Memorize8EmojiKeyO"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Array",
+                          "printedName": "[Swift.String]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "String",
+                              "printedName": "Swift.String",
+                              "usr": "s:SS"
+                            }
+                          ],
+                          "usr": "s:Sa"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV7$emojis7SwiftUI7BindingVySDyAA8EmojiKeyOSaySSGGGvg",
+              "mangledName": "$s8Memorize11ContentViewV7$emojis7SwiftUI7BindingVySDyAA8EmojiKeyOSaySSGGGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_emojis",
+          "printedName": "_emojis",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<[Memorize.EmojiKey : [Swift.String]]>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[Swift.String]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvp",
+          "mangledName": "$s8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<[Memorize.EmojiKey : [Swift.String]]>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "EmojiKey",
+                          "printedName": "Memorize.EmojiKey",
+                          "usr": "s:8Memorize8EmojiKeyO"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Array",
+                          "printedName": "[Swift.String]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "String",
+                              "printedName": "Swift.String",
+                              "usr": "s:SS"
+                            }
+                          ],
+                          "usr": "s:Sa"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvg",
+              "mangledName": "$s8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<[Memorize.EmojiKey : [Swift.String]]>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Dictionary",
+                      "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "EmojiKey",
+                          "printedName": "Memorize.EmojiKey",
+                          "usr": "s:8Memorize8EmojiKeyO"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Array",
+                          "printedName": "[Swift.String]",
+                          "children": [
+                            {
+                              "kind": "TypeNominal",
+                              "name": "String",
+                              "printedName": "Swift.String",
+                              "usr": "s:SS"
+                            }
+                          ],
+                          "usr": "s:Sa"
+                        }
+                      ],
+                      "usr": "s:SD"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvs",
+              "mangledName": "$s8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvM",
+              "mangledName": "$s8Memorize11ContentViewV7_emojis33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySDyAA8EmojiKeyOSaySSGGGvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "currentKey",
+          "printedName": "currentKey",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EmojiKey",
+              "printedName": "Memorize.EmojiKey",
+              "usr": "s:8Memorize8EmojiKeyO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovp",
+          "mangledName": "$s8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovg",
+              "mangledName": "$s8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovs",
+              "mangledName": "$s8Memorize11ContentViewV10currentKeyAA05EmojiE0Ovs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10currentKeyAA05EmojiE0OvM",
+              "mangledName": "$s8Memorize11ContentViewV10currentKeyAA05EmojiE0OvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$currentKey",
+          "printedName": "$currentKey",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Memorize.EmojiKey>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV11$currentKey7SwiftUI7BindingVyAA05EmojiE0OGvp",
+          "mangledName": "$s8Memorize11ContentViewV11$currentKey7SwiftUI7BindingVyAA05EmojiE0OGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Memorize.EmojiKey>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11$currentKey7SwiftUI7BindingVyAA05EmojiE0OGvg",
+              "mangledName": "$s8Memorize11ContentViewV11$currentKey7SwiftUI7BindingVyAA05EmojiE0OGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_currentKey",
+          "printedName": "_currentKey",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Memorize.EmojiKey>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvp",
+          "mangledName": "$s8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Memorize.EmojiKey>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvg",
+              "mangledName": "$s8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Memorize.EmojiKey>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvs",
+              "mangledName": "$s8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvM",
+              "mangledName": "$s8Memorize11ContentViewV11_currentKey33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVyAA05EmojiE0OGvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "emojiCount",
+          "printedName": "emojiCount",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV10emojiCountSivp",
+          "mangledName": "$s8Memorize11ContentViewV10emojiCountSivp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10emojiCountSivg",
+              "mangledName": "$s8Memorize11ContentViewV10emojiCountSivg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10emojiCountSivs",
+              "mangledName": "$s8Memorize11ContentViewV10emojiCountSivs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV10emojiCountSivM",
+              "mangledName": "$s8Memorize11ContentViewV10emojiCountSivM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$emojiCount",
+          "printedName": "$emojiCount",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV11$emojiCount7SwiftUI7BindingVySiGvp",
+          "mangledName": "$s8Memorize11ContentViewV11$emojiCount7SwiftUI7BindingVySiGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11$emojiCount7SwiftUI7BindingVySiGvg",
+              "mangledName": "$s8Memorize11ContentViewV11$emojiCount7SwiftUI7BindingVySiGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_emojiCount",
+          "printedName": "_emojiCount",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.Int>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvp",
+          "mangledName": "$s8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvg",
+              "mangledName": "$s8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Swift.Int>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvs",
+              "mangledName": "$s8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvM",
+              "mangledName": "$s8Memorize11ContentViewV11_emojiCount33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySiGvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "changeEmojis",
+          "printedName": "changeEmojis(key:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EmojiKey",
+              "printedName": "Memorize.EmojiKey",
+              "usr": "s:8Memorize8EmojiKeyO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:8Memorize11ContentViewV12changeEmojis3keyyAA8EmojiKeyO_tF",
+          "mangledName": "$s8Memorize11ContentViewV12changeEmojis3keyyAA8EmojiKeyO_tF",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AnyView",
+              "printedName": "SwiftUI.AnyView",
+              "usr": "s:7SwiftUI7AnyViewV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize11ContentViewV4bodyQrvp",
+          "mangledName": "$s8Memorize11ContentViewV4bodyQrvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize11ContentViewV4bodyQrvg",
+              "mangledName": "$s8Memorize11ContentViewV4bodyQrvg",
+              "moduleName": "Memorize",
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ContentView",
+              "printedName": "Memorize.ContentView",
+              "usr": "s:8Memorize11ContentViewV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize11ContentViewVACycfc",
+          "mangledName": "$s8Memorize11ContentViewVACycfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(emojis:currentKey:emojiCount:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ContentView",
+              "printedName": "Memorize.ContentView",
+              "usr": "s:8Memorize11ContentViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Memorize.EmojiKey : [Swift.String]]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EmojiKey",
+              "printedName": "Memorize.EmojiKey",
+              "hasDefaultArg": true,
+              "usr": "s:8Memorize8EmojiKeyO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "hasDefaultArg": true,
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize11ContentViewV6emojis10currentKey10emojiCountACSDyAA05EmojiF0OSaySSGG_AHSitcfc",
+          "mangledName": "$s8Memorize11ContentViewV6emojis10currentKey10emojiCountACSDyAA05EmojiF0OSaySSGG_AHSitcfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:8Memorize11ContentViewV",
+      "mangledName": "$s8Memorize11ContentViewV",
+      "moduleName": "Memorize",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "CardView",
+      "printedName": "CardView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "content",
+          "printedName": "content",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8CardViewV7contentSSvp",
+          "mangledName": "$s8Memorize8CardViewV7contentSSvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV7contentSSvg",
+              "mangledName": "$s8Memorize8CardViewV7contentSSvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV7contentSSvs",
+              "mangledName": "$s8Memorize8CardViewV7contentSSvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV7contentSSvM",
+              "mangledName": "$s8Memorize8CardViewV7contentSSvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isFaceUp",
+          "printedName": "isFaceUp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8CardViewV8isFaceUpSbvp",
+          "mangledName": "$s8Memorize8CardViewV8isFaceUpSbvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Dynamic",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV8isFaceUpSbvg",
+              "mangledName": "$s8Memorize8CardViewV8isFaceUpSbvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV8isFaceUpSbvs",
+              "mangledName": "$s8Memorize8CardViewV8isFaceUpSbvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV8isFaceUpSbvM",
+              "mangledName": "$s8Memorize8CardViewV8isFaceUpSbvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$isFaceUp",
+          "printedName": "$isFaceUp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.Bool>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8CardViewV9$isFaceUp7SwiftUI7BindingVySbGvp",
+          "mangledName": "$s8Memorize8CardViewV9$isFaceUp7SwiftUI7BindingVySbGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.Bool>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Bool",
+                      "printedName": "Swift.Bool",
+                      "usr": "s:Sb"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV9$isFaceUp7SwiftUI7BindingVySbGvg",
+              "mangledName": "$s8Memorize8CardViewV9$isFaceUp7SwiftUI7BindingVySbGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_isFaceUp",
+          "printedName": "_isFaceUp",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.Bool>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvp",
+          "mangledName": "$s8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvp",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Swift.Bool>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Bool",
+                      "printedName": "Swift.Bool",
+                      "usr": "s:Sb"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvg",
+              "mangledName": "$s8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "State",
+                  "printedName": "SwiftUI.State<Swift.Bool>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Bool",
+                      "printedName": "Swift.Bool",
+                      "usr": "s:Sb"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI5StateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvs",
+              "mangledName": "$s8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvs",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvM",
+              "mangledName": "$s8Memorize8CardViewV9_isFaceUp33_250A3E5D17038B5BCE5073AF8782FCA5LL7SwiftUI5StateVySbGvM",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AnyView",
+              "printedName": "SwiftUI.AnyView",
+              "usr": "s:7SwiftUI7AnyViewV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8CardViewV4bodyQrvp",
+          "mangledName": "$s8Memorize8CardViewV4bodyQrvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8CardViewV4bodyQrvg",
+              "mangledName": "$s8Memorize8CardViewV4bodyQrvg",
+              "moduleName": "Memorize",
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(content:isFaceUp:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CardView",
+              "printedName": "Memorize.CardView",
+              "usr": "s:8Memorize8CardViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "hasDefaultArg": true,
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize8CardViewV7content8isFaceUpACSS_Sbtcfc",
+          "mangledName": "$s8Memorize8CardViewV7content8isFaceUpACSS_Sbtcfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:8Memorize8CardViewV",
+      "mangledName": "$s8Memorize8CardViewV",
+      "moduleName": "Memorize",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "IconView",
+      "printedName": "IconView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "image",
+          "printedName": "image",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8IconViewV5imageSSvp",
+          "mangledName": "$s8Memorize8IconViewV5imageSSvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8IconViewV5imageSSvg",
+              "mangledName": "$s8Memorize8IconViewV5imageSSvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "text",
+          "printedName": "text",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8IconViewV4textSSvp",
+          "mangledName": "$s8Memorize8IconViewV4textSSvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8IconViewV4textSSvg",
+              "mangledName": "$s8Memorize8IconViewV4textSSvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "key",
+          "printedName": "key",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EmojiKey",
+              "printedName": "Memorize.EmojiKey",
+              "usr": "s:8Memorize8EmojiKeyO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8IconViewV3keyAA8EmojiKeyOvp",
+          "mangledName": "$s8Memorize8IconViewV3keyAA8EmojiKeyOvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8IconViewV3keyAA8EmojiKeyOvg",
+              "mangledName": "$s8Memorize8IconViewV3keyAA8EmojiKeyOvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "onTap",
+          "printedName": "onTap",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Memorize.EmojiKey) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8IconViewV5onTapyyAA8EmojiKeyOcvp",
+          "mangledName": "$s8Memorize8IconViewV5onTapyyAA8EmojiKeyOcvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(Memorize.EmojiKey) -> ()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Void",
+                      "printedName": "()"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "EmojiKey",
+                      "printedName": "Memorize.EmojiKey",
+                      "usr": "s:8Memorize8EmojiKeyO"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8IconViewV5onTapyyAA8EmojiKeyOcvg",
+              "mangledName": "$s8Memorize8IconViewV5onTapyyAA8EmojiKeyOcvg",
+              "moduleName": "Memorize",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AnyView",
+              "printedName": "SwiftUI.AnyView",
+              "usr": "s:7SwiftUI7AnyViewV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize8IconViewV4bodyQrvp",
+          "mangledName": "$s8Memorize8IconViewV4bodyQrvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize8IconViewV4bodyQrvg",
+              "mangledName": "$s8Memorize8IconViewV4bodyQrvg",
+              "moduleName": "Memorize",
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(image:text:key:onTap:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "IconView",
+              "printedName": "Memorize.IconView",
+              "usr": "s:8Memorize8IconViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EmojiKey",
+              "printedName": "Memorize.EmojiKey",
+              "usr": "s:8Memorize8EmojiKeyO"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Memorize.EmojiKey) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmojiKey",
+                  "printedName": "Memorize.EmojiKey",
+                  "usr": "s:8Memorize8EmojiKeyO"
+                }
+              ]
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize8IconViewV5image4text3key5onTapACSS_SSAA8EmojiKeyOyAIctcfc",
+          "mangledName": "$s8Memorize8IconViewV5image4text3key5onTapACSS_SSAA8EmojiKeyOyAIctcfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:8Memorize8IconViewV",
+      "mangledName": "$s8Memorize8IconViewV",
+      "moduleName": "Memorize",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ContentView_Previews",
+      "printedName": "ContentView_Previews",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "previews",
+          "printedName": "previews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AnyView",
+              "printedName": "SwiftUI.AnyView",
+              "usr": "s:7SwiftUI7AnyViewV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize20ContentView_PreviewsV8previewsQrvpZ",
+          "mangledName": "$s8Memorize20ContentView_PreviewsV8previewsQrvpZ",
+          "moduleName": "Memorize",
+          "static": true,
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize20ContentView_PreviewsV8previewsQrvgZ",
+              "mangledName": "$s8Memorize20ContentView_PreviewsV8previewsQrvgZ",
+              "moduleName": "Memorize",
+              "static": true,
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ContentView_Previews",
+              "printedName": "Memorize.ContentView_Previews",
+              "usr": "s:8Memorize20ContentView_PreviewsV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize20ContentView_PreviewsVACycfc",
+          "mangledName": "$s8Memorize20ContentView_PreviewsVACycfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:8Memorize20ContentView_PreviewsV",
+      "mangledName": "$s8Memorize20ContentView_PreviewsV",
+      "moduleName": "Memorize",
+      "declAttributes": [
+        "Custom"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "PreviewProvider",
+          "printedName": "PreviewProvider",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Previews",
+              "printedName": "Previews",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AnyView",
+                  "printedName": "SwiftUI.AnyView",
+                  "usr": "s:7SwiftUI7AnyViewV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI15PreviewProviderP",
+          "mangledName": "$s7SwiftUI15PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_PreviewProvider",
+          "printedName": "_PreviewProvider",
+          "usr": "s:7SwiftUI16_PreviewProviderP",
+          "mangledName": "$s7SwiftUI16_PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Memorize"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "MemorizeApp",
+      "printedName": "MemorizeApp",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WindowGroup",
+              "printedName": "SwiftUI.WindowGroup<Memorize.ContentView>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ContentView",
+                  "printedName": "Memorize.ContentView",
+                  "usr": "s:8Memorize11ContentViewV"
+                }
+              ],
+              "usr": "s:7SwiftUI11WindowGroupV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:8Memorize0A3AppV4bodyQrvp",
+          "mangledName": "$s8Memorize0A3AppV4bodyQrvp",
+          "moduleName": "Memorize",
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "WindowGroup",
+                  "printedName": "SwiftUI.WindowGroup<Memorize.ContentView>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ContentView",
+                      "printedName": "Memorize.ContentView",
+                      "usr": "s:8Memorize11ContentViewV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI11WindowGroupV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:8Memorize0A3AppV4bodyQrvg",
+              "mangledName": "$s8Memorize0A3AppV4bodyQrvg",
+              "moduleName": "Memorize",
+              "declAttributes": [
+                "Dynamic"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "$main",
+          "printedName": "$main()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:8Memorize0A3AppV5$mainyyFZ",
+          "mangledName": "$s8Memorize0A3AppV5$mainyyFZ",
+          "moduleName": "Memorize",
+          "static": true,
+          "implicit": true,
+          "declAttributes": [
+            "Dynamic"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MemorizeApp",
+              "printedName": "Memorize.MemorizeApp",
+              "usr": "s:8Memorize0A3AppV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:8Memorize0A3AppVACycfc",
+          "mangledName": "$s8Memorize0A3AppVACycfc",
+          "moduleName": "Memorize",
+          "implicit": true,
+          "declAttributes": [
+            "Custom",
+            "Dynamic"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:8Memorize0A3AppV",
+      "mangledName": "$s8Memorize0A3AppV",
+      "moduleName": "Memorize",
+      "declAttributes": [
+        "MainType"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "App",
+          "printedName": "App",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "WindowGroup",
+                  "printedName": "SwiftUI.WindowGroup<Memorize.ContentView>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ContentView",
+                      "printedName": "Memorize.ContentView",
+                      "usr": "s:8Memorize11ContentViewV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI11WindowGroupV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI3AppP",
+          "mangledName": "$s7SwiftUI3AppP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

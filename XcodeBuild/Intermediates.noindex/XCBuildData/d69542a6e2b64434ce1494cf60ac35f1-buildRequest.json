@@ -1,0 +1,102 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "306c47098580502d1e263e2f9aac91ea0a0114f69e4b3de1020d746ff8a4f939",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex",
+          "buildProductsPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Products",
+          "derivedDataPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData/Memorize-fbdtyieclwwbxffbtbzwkbwfvyyw/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData/Memorize-fbdtyieclwwbxffbtbzwkbwfvyyw/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex/Previews/Memorize/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex/Previews/Memorize/Intermediates.noindex",
+              "SYMROOT" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex/Previews/Memorize/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "CB6CD1B0-3273-4F14-BB17-E5BCEE54927C",
+              "TARGET_DEVICE_MODEL" : "iPhone13,1",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/Memorize.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex",
+      "buildProductsPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Products",
+      "derivedDataPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData/Memorize-fbdtyieclwwbxffbtbzwkbwfvyyw/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/udobnaja/Library/Developer/Xcode/DerivedData/Memorize-fbdtyieclwwbxffbtbzwkbwfvyyw/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/udobnaja/study/stanford SwiftUI/Memorize/XcodeBuild/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "CB6CD1B0-3273-4F14-BB17-E5BCEE54927C",
+          "TARGET_DEVICE_MODEL" : "iPhone13,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1642178421, 583139896]
+build_end_time: [1642178427, 550303936]
+inputs:
+  "/Users/udobnaja/study/stanford SwiftUI/Memorize/Memorize/ContentView.swift": [1642178263, 340265750]
+  "/Users/udobnaja/study/stanford SwiftUI/Memorize/Memorize/MemorizeApp.swift": [1642178263, 330128669]
